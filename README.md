@@ -62,32 +62,23 @@ It comes with both a **Streamlit web app** and a **command-line interface** for 
 
 ### 1️⃣ Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/brainrot.git
+git clone https://github.com/tarunik7/Brain_rot
 cd brainrot
 
 2️⃣ Install Dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 3️⃣ Train the Model (Optional)
 If you'd like to retrain the model with the synthetic dataset:
-
-bash
-Copy
-Edit
 python train.py
+
 4️⃣ Run the Web App
-bash
-Copy
-Edit
 streamlit run app.py
+
 5️⃣ Or Use the CLI Tool
-bash
-Copy
-Edit
 python predict.py
+
+
 
 🌱 Life Analogy: Why Build This?
 Think of it like a speedometer for your digital life.
