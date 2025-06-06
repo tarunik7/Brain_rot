@@ -65,22 +65,21 @@ It comes with both a **Streamlit web app** and a **command-line interface** for 
 git clone https://github.com/tarunik7/Brain_rot
 cd brainrot
 
-2️⃣ Install Dependencies
+2️⃣ Install Dependencies:
 pip install -r requirements.txt
 
 3️⃣ Train the Model (Optional)
 If you'd like to retrain the model with the synthetic dataset:
 python train.py
 
-4️⃣ Run the Web App
+4️⃣ Run the Web App:
 streamlit run app.py
 
-5️⃣ Or Use the CLI Tool
+5️⃣ Or Use the CLI Tool:
 python predict.py
 
 
-
-🌱 Life Analogy: Why Build This?
+Why Build This?
 Think of it like a speedometer for your digital life.
 You wouldn't drive a car without a dashboard — yet many of us scroll endlessly without knowing how fast we're going or when to stop.
 BrainRot acts as that dashboard for your digital habits.
